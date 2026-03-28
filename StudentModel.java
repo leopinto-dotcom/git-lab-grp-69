@@ -40,7 +40,7 @@ public class StudentModel {
         this.apellido = apellido;
     }
 
-    // Método toString (útil para imprimir datos)
+    // Método toString (útil para imprimir datos)as
     @Override
     public String toString() {
         return "StudentModel{" +
